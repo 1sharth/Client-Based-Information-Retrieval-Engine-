@@ -1,0 +1,31 @@
+What is 'Game Theory'
+
+Game theory is the study of human conflict and cooperation within a competitive situation. In some respects, game theory is the science of strategy, or at least the optimal decision-making of independent and competing actors in a strategic setting. The key pioneers of game theory were mathematicians John von Neumann and John Nash, as well as economist Oskar Morgenstern.
+BREAKING DOWN 'Game Theory'
+Game theory creates a language and formal structure of analysis for making logical decisions in competitive environments. The term “game” can be misleading. Even though game theory applies to recreational games, the concept of “game” simply means any interactive situation in which independent actors share more-or-less formal rules and consequences.
+
+The formal application of game theory requires knowledge of the following details: the identity of independent actors, their preferences, what they know, which strategic acts they are allowed to make, and how each decision influences the outcome of the game. Depending on the model, various other requirements or assumptions may be necessary. Finally, each independent actor is assumed to be rational.
+
+Game theory has a wide range of applications, including psychology, evolutionary biology, war, politics, economics and business. Despite its many advances, game theory is still a young and developing science.
+Impact on Economics and Business
+
+Game theory brought about a revolution in economics by addressing crucial problems in prior mathematical economic models. For instance, neoclassical economics struggled to understand entrepreneurial anticipation and couldn't handle imperfect competition. Game theory turned attention away from steady-state equilibrium and toward market process.
+
+In game theory, every decision-maker must anticipate the reaction of those affected by the decision. In business, this means economic agents must anticipate the reactions of rivals, employees, customers and investors.
+An Example of Game Theory
+
+Suppose executives in charge of Apple iOS and Google Android are deciding whether or not to collude and exert duopolistic power over the market for smartphone operating software. Each firm knows that if they work together and do not cheat each other, they will be able to restrict output and raise prices, thereby enjoying above-normal profits.
+
+A simple application of the prisoner’s dilemma shows Apple and Google cannot maintain a stable equilibrium while colluding together, even under the unrealistic assumption that no other market competitors exist or could exist. Consider the four possible scenarios:
+
+1. Both Apple and Google sell the agreed-upon amount, do not cheat, and enjoy above-normal profits.
+
+2. Apple only sells the agreed-upon amount of operating software, but Google sells the quantity at which it receives maximal net return (perhaps through secret rebates or setting up a shadow subsidiary). Google realizes even greater profits by discretely offering goods at sub-duopoly prices, and Apple loses market share.
+
+3. Google doesn’t cheat, but Apple does. Apple realizes even greater profits by cheating, and Google loses market share.
+
+4. Both Apple and Google compete normally and realize normal profits. Whether or not Google cheats, Apple is better off cheating, and vice versa. The same logic holds true whether discussing individual brokers, advisors, salesmen or entire firms.
+
+Read more: Game Theory https://www.investopedia.com/terms/g/gametheory.asp#ixzz4yI2WAut0
+Follow us: Investopedia on Facebook
+

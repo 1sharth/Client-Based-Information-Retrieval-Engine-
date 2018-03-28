@@ -1,0 +1,18 @@
+What is Chaos Theory?
+
+Chaos is the science of surprises, of the nonlinear and the unpredictable. It teaches us to expect the unexpected. While most traditional science deals with supposedly predictable phenomena like gravity, electricity, or chemical reactions, Chaos Theory deals with nonlinear things that are effectively impossible to predict or control, like turbulence, weather, the stock market, our brain states, and so on. These phenomena are often described by fractal mathematics, which captures the infinite complexity of nature. Many natural objects exhibit fractal properties, including landscapes, clouds, trees, organs, rivers etc, and many of the systems in which we live exhibit complex, chaotic behavior. Recognizing the chaotic, fractal nature of our world can give us new insight, power, and wisdom. For example, by understanding the complex, chaotic dynamics of the atmosphere, a balloon pilot can “steer” a balloon to a desired location. By understanding that our ecosystems, our social systems, and our economic systems are interconnected, we can hope to avoid actions which may end up being detrimental to our long-term well-being.
+
+Principles of Chaos
+
+    The Butterfly Effect: This effect grants the power to cause a hurricane in China to a butterfly flapping its wings in New Mexico. It may take a very long time, but the connection is real. If the butterfly had not flapped its wings at just the right point in space/time, the hurricane would not have happened. A more rigorous way to express this is that small changes in the initial conditions lead to drastic changes in the results. Our lives are an ongoing demonstration of this principle. Who knows what the long-term effects of teaching millions of kids about chaos and fractals will be?
+
+    Unpredictability: Because we can never know all the initial conditions of a complex system in sufficient (i.e. perfect) detail, we cannot hope to predict the ultimate fate of a complex system. Even slight errors in measuring the state of a system will be amplified dramatically, rendering any prediction useless. Since it is impossible to measure the effects of all the butterflies (etc) in the World, accurate long-range weather prediction will always remain impossible.
+
+    Order / Disorder Chaos is not simply disorder. Chaos explores the transitions between order and disorder, which often occur in surprising ways.
+
+    Mixing: Turbulence ensures that two adjacent points in a complex system will eventually end up in very different positions after some time has elapsed. Examples: Two neighboring water molecules may end up in different parts of the ocean or even in different oceans. A group of helium balloons that launch together will eventually land in drastically different places. Mixing is thorough because turbulence occurs at all scales. It is also nonlinear: fluids cannot be unmixed.
+
+    Feedback: Systems often become chaotic when there is feedback present. A good example is the behavior of the stock market. As the value of a stock rises or falls, people are inclined to buy or sell that stock. This in turn further affects the price of the stock, causing it to rise or fall chaotically.
+
+    Fractals: A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains, clouds, seashells, hurricanes, etc.
+
